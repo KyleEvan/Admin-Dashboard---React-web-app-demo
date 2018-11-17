@@ -1,0 +1,25 @@
+html, body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  font-size:16px;
+  font-family: sans-serif;
+  color:#212529;
+
+}
+body{
+  background:#F1F4F9;
+  overflow-x:hidden;
+}
+*{
+  box-sizing: border-box;
+}
+body > div{
+  width:inherit;
+  height:inherit;
+}
+.router{
+  width:inherit;
+  height: inherit;
+}
